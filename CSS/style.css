@@ -24,9 +24,11 @@
     line-height: 21.78px;
     font-weight: 400;
     font-family: 'Inter';
+    text-transform: capitalize;
 }
 .nav-a-item{
     color: #37393F;
+    text-transform: capitalize;
 }
 .header-button{
     width: 184px;
@@ -38,6 +40,9 @@
     background-color: #6B77E5;
     border: none;
     cursor: pointer;
+}
+.icon{
+    margin: 14.45px;
 }
 
 /* section 1 styles*/
@@ -54,6 +59,7 @@
     line-height: 21.78px;
     font-family: 'Poppins';
     font-weight: 700;
+    text-transform: capitalize;
 }
 .title1 {
     color: #37393F;
@@ -62,6 +68,7 @@
     margin-top: 16px;
     font-family: 'Poppins';
     font-weight: 700;
+    text-transform: capitalize;
 }
 .wrapper {
     display: flex;
@@ -81,6 +88,7 @@
     margin-top: 58px;
     font-weight: 600;
     font-family: 'Poppins';
+    text-transform: capitalize;
 }
 .wrapper-cont {
     color: #7D7D7D;
@@ -98,6 +106,7 @@
     font-family: 'Inter';
     font-weight: 600;
     margin: 37px 0px 10px 0;
+    text-transform: capitalize;
 }
 .parent-box1 {
     background-color: #40DDB6;
@@ -172,13 +181,15 @@
     line-height: 31.75px;
     font-family: 'Poppins';
     font-weight: 600;
+    text-transform: capitalize;
 }
 .parent-box-cont{
     color: #7D7D7D;
     font-size: 18px;
     line-height: 24.33px;
-    font-family: 'Inter';
     margin-top: 4px;
+    font-family: 'Inter';
+    text-transform: capitalize;
 }
 
 
