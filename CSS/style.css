@@ -12,6 +12,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #FFFFFF;
 }
 .nav-ul-element{
     display: flex;
@@ -40,3 +41,110 @@
 }
 
 /* section 1 styles*/
+.section1{
+    width: 1220px;
+    margin-top: 136px;
+    margin: 136px auto;
+    align-items: center;
+    text-align: center;
+}
+
+.title{
+    color: #37393F;
+    font-size: 18px;
+    line-height: 21.78px;
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+.title1 {
+    color: #37393F;
+    font-size: 40px;
+    line-height: 48.4px;
+    margin-top: 16px;
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+.wrapper {
+    display: flex;
+    margin: 41px auto 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.wrapper-box {
+    width: 386px;
+    height: 383px;
+    background-color: #F4F4F4;
+}
+.title2 {
+    color: #37393F;
+    font-size: 25px;
+    line-height: 31.75px;
+    margin-top: 58px;
+    font-weight: 600;
+    font-family: 'Poppins';
+}
+.wrapper-cont {
+    color: #7D7D7D;
+    font-size: 18px;
+    line-height: 26.31px;
+    font-family: 'Inter';
+    margin: 16px 43px 37px;
+    width: 300px;
+    text-align: center;
+}
+.title3 {
+    color: #6B77E5;
+    font-size: 18px;
+    line-height: 21.78px;
+    font-family: 'Inter';
+    font-weight: 600;
+    margin: 37px 0px 10px 0;
+}
+.parent-box1 {
+    background-color: #40DDB6;
+    width: 72px;
+    height: 72px;
+    margin: 0 157px;
+    border-radius: 100px;
+}
+/*section 2 styles*/
+
+.section2 {
+    text-align: center;
+    margin: 60px 0 160px 0;
+    position: relative;
+    z-index: 1;
+}
+.section2-desc {
+    position: absolute;
+    top: 143px;
+    left: 300px;
+    right: 300px;
+}
+.section2-cont {
+    width: 511px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 21px;
+    font-family: 'Inter';
+    font-size: 18px;
+    line-height: 26.31px;
+    color: #37393F;
+}
+.parent-box2 {
+    background-color: #6B77E5;
+    width: 64.5px;
+    height: 64.5px;
+    border-radius: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 47px;
+}
+
+.icon2 {
+    margin: 17.11px 21.08px 23.08px;
+}
+
+
+
